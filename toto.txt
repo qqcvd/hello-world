@@ -4,3 +4,5 @@ ceci estune premiere modif de toto.txt
 
 voila une2e ligne
 
+3ieme lgine de fichiet
+
